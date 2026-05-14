@@ -5,5 +5,5 @@ Privacy Policy for InnerSnap
 * **Permissions:** Uses Camera, Storage, and Location strictly for local functionality.
 * **No Tracking:** No ads, no analytics, and no internet connection required.
 * **Contact:** vgarciadev50@gmail.com.
-* 
+  
 For more details, see the Privacy_Policy_InnerSnap.md
